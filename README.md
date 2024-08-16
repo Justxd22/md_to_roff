@@ -11,9 +11,9 @@ i spent 2 days automating it in python :D
 - see the code more detection things
 
 from md:  
-![alt text](image-1.png)
+![alt text](res/image-1.png)
 to roff:  
-![alt text](image1.png)
+![alt text](res/image1.png)
 
 
 # RUN
